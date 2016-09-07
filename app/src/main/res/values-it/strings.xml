@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_message">Scrivi qualcosa</string>
+    <string name="button_send">Test</string>
+    <string name="button_send1">Foto</string>
+    <string name="button_send2">Thumb</string>
+</resources>
